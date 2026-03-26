@@ -1,0 +1,5 @@
+{
+  "name": "FAQ Chatbot",
+  "description": "A simple AI-powered chatbot that answers questions based on a set of FAQs.",
+  "requestFramePermissions": []
+}
